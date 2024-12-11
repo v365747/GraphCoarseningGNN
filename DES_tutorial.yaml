@@ -60,7 +60,7 @@ edge_eng_mlp_initialization: uniform
 
 # -- data -- Case sensitive file names
 dataset: ase                                                                   
-dataset_file_name: ./Si_data/DES.xyz                      # path to data set file
+dataset_file_name: ./Si_data/DES_L.xyz                      # path to data set file
 ase_args:
   format: extxyz
     #include_keys:
